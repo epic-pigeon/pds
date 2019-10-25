@@ -1,0 +1,6 @@
+use java.lang.String as string
+use java.lang.System as system
+
+let kar: string()
+//system::out.println(kar.??method())
+system::out.println(kar)
